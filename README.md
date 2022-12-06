@@ -1,4 +1,4 @@
-<img src="assets/Banner.webp" width="100%" height="400"/>
+<img src="assets/Banner.webp" width="100%" height="40%"/>
 
 # Hey! There      <img src="assets/hello.gif" width="28px" alt="hi">
 ![](https://komarev.com/ghpvc/?username=sejarparvez&color=brightgreen)
@@ -21,4 +21,4 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sejarparvez&theme=highcontrast&border_radius=6&mode=weekly&ring=04DD05&stroke=14FF35&fire=FF2400&dates=18FF00&currStreakLabel=FFFFFF&border=FF0000&sideNums=1BFF00)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejarparvez&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
