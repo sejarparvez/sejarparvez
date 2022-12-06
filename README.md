@@ -1,21 +1,113 @@
-# Hi There 👋
+![Github Banner](assets/github-banner.png)
 
-I'm SEJAR PARVEZ a Full Stack JavaScript Developer, 
-With High Level Of Experience In Web Desining And Development, Producing The Quality Work
+## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
-# Connect With Me 
+I'm Sumit, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
 
+:coffee: &emsp;Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sejarparvez)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejar-parvez-b99b62146/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sejarparvez)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sejar_parvez)
-[![Mail Badge](https://img.shields.io/badge/Yahoo-790FCF?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:sejarparvez@yahoo.com)
-[![Dribble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribble.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sumit.analyzen) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/learnwithsumit) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitanalyzen/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/learnwithsumit) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit_analyzen) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayhitorainmaker@gmail.com)
 
-## :fire: My Stats :
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
+:e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
+⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sejarparvez&theme=github-green-purple&mode=weekly&currStreakNum=56FF16&fire=FF0000&currStreakLabel=2298FF&dates=FFFFFF&stroke=1EFF00&border=00FF10&sideLabels=24B7FF)
+#### Things I code with
 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejarparvez&layout=compact&theme=chartreuse-dark)
+### Tutorials
+
+[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
+
+### My Projects & Ventures
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Responses</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
+      <td>Programming related Learning Platform for Bangladesh</td>
+      <td>100K+ active learners</td>
+    </tr>
+    <tr>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
+      <td>Visual Studio Code Editor Theme</td>
+      <td>15K+ installs</td>
+    </tr>
+    <tr>
+      <td>Listenyzen</td>
+      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
+      <td>65+ clients</td>
+    </tr>
+    <tr>
+      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
+      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
+      <td>120+ clients</td>
+    </tr>
+    <tr>
+      <td>Prism</td>
+      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
+      <td>2.5k+ Distributors Nationwide</td>
+    </tr>
+    <tr>
+      <td>Unilever MARS</td>
+      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
+      <td>20 million+ Consumer Data Managed Already</td>
+    </tr>
+    <tr>
+      <td>Microzen</td>
+      <td>Microcredit Automation System with AI based Decision Support System</td>
+      <td>10 million+ Consumer Financial Data Managed Already</td>
+    </tr>
+  </tbody>
+</table>
+
+### 📺 &emsp;Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [How to write a professional Resume - Resume tips for web developers](https://www.youtube.com/watch?v=Keuvud23JVk)
+- [Sumit Saha Interview on Nagorik TV - Live with a purpose](https://www.youtube.com/watch?v=4mWwZvoFpZc)
+- [২০২২ এ এসে কেন রিয়্যাক্ট শিখবেন - Should you learn react js in 2022 ?](https://www.youtube.com/watch?v=1eFczVsGLYk)
+- [Why redux? | Introduction to redux.](https://www.youtube.com/watch?v=91HdW69lAVo)
+- [Best practices for Node Application Deployment - Foyzul Karim](https://www.youtube.com/watch?v=XlioXHL7G-4)
+<!-- YOUTUBE:END -->
+
+#### Business
+
+:email: &emsp;sayhitorainmaker@gmail.com
+<br >
+:email: &emsp;sumit@learnwithsumit.com
+<br >
+:email: &emsp;sumit@analyzenbd.com
+
+#### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit)
+
+<details>
+<summary>
+  You wanna know more about me?
+</summary>
+
+<br >
+
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
+
+#### What is Learn with Sumit?
+
+"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
+
+#### Github Stats
+
+![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
