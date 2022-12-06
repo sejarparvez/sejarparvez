@@ -1,4 +1,4 @@
-<img src="assets/Banner.webp" width="100%" height="40%"/>
+<img src="assets/Banner.webp" width="100%" height="350"/>
 
 # Hey! There      <img src="assets/hello.gif" width="28px" alt="hi">
 ![](https://komarev.com/ghpvc/?username=sejarparvez&color=brightgreen)
