@@ -18,6 +18,7 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 
 
 # Github Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sejarparvez&theme=highcontrast&border_radius=6&mode=weekly&ring=04DD05&stroke=14FF35&fire=FF2400&dates=18FF00&currStreakLabel=FFFFFF&border=FF0000&sideNums=1BFF00)](https://git.io/streak-stats)
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=sejarparvez&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
