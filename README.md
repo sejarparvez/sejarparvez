@@ -22,6 +22,13 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 
 ### Specifications
 
+This is a single page portfolio website for a Frontend developer.
+
+It has a working contact form. Its fully responsive. Has dark mood and light mood. Some staning animation. Smooth scroll and many more.
+
+
+### Technology Used
+
 * This Webpage is created using React.
 * Tailwind CSS for styling.
 * EmailJs for contact form.
@@ -29,8 +36,8 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 * Framer motion for animation
 * react-scroll for smooth scroll
 
-[Click here](https://primetech.cf) to visit the Protfolio Project With React
 
+[Click here](https://sejarparvez.github.io/react_with_tailwind_03_portfolio) to visit the Protfolio Project With React
 
 
 
