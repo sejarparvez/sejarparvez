@@ -40,6 +40,23 @@ It has a working contact form. Its fully responsive. Has dark mood and light moo
 [Click here](https://sejarparvez.github.io/react_with_tailwind_03_portfolio) to visit the Protfolio Project With React
 
 
+## PortFolio Website 2
+
+### Specifications
+
+Is is another Portfolio website. I got the design from a youtuber. But every single line code is written by me. Its completely responsive. Has a working contact form. Some animation. A beautiful hamburger menu for small screen.
+
+### Technology Used
+
+* This Portfolio website is created using React.
+* Tailwind CSS for styling.
+* EmailJs for contact form.
+* Swiper slider for creating beautiful slider.
+* react-scroll for smooth scroll.
+
+[Click here](https://sejarparvez.github.io/portfolio-2) to visit the Protfolio Project 2 with React.
+
+
 
 # Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sejarparvez&theme=highcontrast&border_radius=6&mode=weekly&ring=04DD05&stroke=14FF35&fire=FF2400&dates=18FF00&currStreakLabel=FFFFFF&border=FF0000&sideNums=1BFF00)](https://git.io/streak-stats)
