@@ -17,7 +17,9 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 </br>
 <img src='assets/line.gif' alt='line'>
 </br>
-# My Recent Projects
+
+
+# My Recent Projects.
 
 ## A Full Stack Blog Website.
 
