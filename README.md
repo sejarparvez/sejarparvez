@@ -41,7 +41,7 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 - Rich text editor for creating new post.
 - Edit and Delete post
 - Amazing user profile.
-- User can edit there own profile, Add bio profile picture social links and much more.
+- User can edit there own profile, Add bio, profile picture, social links and much more.
 - Comment section
 - Has Dark Mode
 - Responsive in all screen size
@@ -83,7 +83,7 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 
 ## A Simple PortFolio Website.
 
- <img src="assets/Portfolio1.jpeg" alt="portfolio">
+ <img src="assets/Portfolio1.jpg" alt="portfolio">
 
 ### Specifications
 
@@ -102,21 +102,69 @@ It has a working contact form. Its fully responsive. Has dark mood and light moo
 
 [Click here](https://sejarparvez.github.io/react_with_tailwind_03_portfolio) to visit the Portfolio Project With React
 
-## PortFolio Website 2
+</br>
+<img src='assets/line.gif' alt='line'>
+</br>
+
+## TypeScript Portfolio Website
+
+<img src="assets/Portfolio2.jpeg" alt="portfolio">
 
 ### Specifications
 
-Is is another Portfolio website. I got the design from a youtube chanel. But every single line code is written by me. Its completely responsive. Has a working contact form. Some animation. A beautiful hamburger menu for small screen.
+This is another Portfolio website. I got the design from a youtube chanel. But every single line of code is written by me. Its completely responsive. Has a working contact form. Some animation. A beautiful hamburger menu for small screen.
 
 ### Technology Used
 
-- This Portfolio website is created using React.
+- This Portfolio website is created using React Typescript.
 - Tailwind CSS for styling.
 - EmailJs for contact form.
 - Swiper slider for creating beautiful slider.
 - react-scroll for smooth scroll.
 
-[Click here](https://sejarparvez.github.io/portfolio-2) to visit the Portfolio Project 2 with React.
+[Click here](https://sejarparvez.github.io/typescript-portfolio-project) to visit the Portfolio Project with react typescript.
+
+</br>
+<img src='assets/line.gif' alt='line'>
+</br>
+
+## Landing Page for a gym.
+
+<img src='assets/gym.jpg' alt='gym'>
+
+### Specifications
+
+This is a landing page for a gym website. It has an amazing design. Some smooth eye catching animation. It also has a contract form, a price table and many more.
+
+### Technology used
+
+- React
+- Tailwind CSS
+- Framer Motion
+- Swiper slider
+- EmailJs
+- react-smooth-scroll
+
+[Click here](https://sejarparvez.github.io/typescript-portfolio-project) to visit the gym landing page.
+
+</br>
+<img src='assets/line.gif' alt='line'>
+</br>
+
+## React TypeScript Landing Page
+
+<img src ='assets/Landing.jpg' alt='Landing'>
+
+### Specifications
+
+I develope this landing page for a client. It is responsive for all screen size. It also has a working subscribe form. It has a language switcher.
+
+### Technology used
+
+- React TypeScript
+- Tailwind CSS
+- EmailJs
+- react-hot toast
 
 # Github Stats
 
