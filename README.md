@@ -18,7 +18,6 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 <img src='assets/line.gif' alt='line'>
 </br>
 
-
 # My Recent Projects.
 
 ## A Full Stack Blog Website.
@@ -167,6 +166,29 @@ I develope this landing page for a client. It is responsive for all screen size.
 - Tailwind CSS
 - EmailJs
 - react-hot toast
+
+</br>
+<img src='assets/line.gif' alt='line'>
+</br>
+
+## Landing Page For a Interior company.
+
+<img src='assets/sky.jpg' alt='sky'>
+
+### Specifications
+
+This is a landing page for a interior company. It has an amazing design. Some smooth eye catching animation. It also has a contract form, a price table and many more.
+
+### Technology used
+
+- React
+- Tailwind CSS
+- Framer Motion
+- Swiper slider
+- EmailJs
+- react-smooth-scroll
+
+[Click here](https://sejarparvez.github.io/sky/) to visit the gym landing page.
 
 # Github Stats
 
