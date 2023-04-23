@@ -181,14 +181,14 @@ This is a landing page for a interior company. It has an amazing design. Some sm
 
 ### Technology used
 
-- React
+- React TypeScript
 - Tailwind CSS
 - Framer Motion
 - Swiper slider
 - EmailJs
 - react-smooth-scroll
 
-[Click here](https://sejarparvez.github.io/sky/) to visit the gym landing page.
+[Click here](https://sky-architech.netlify.app) to visit the gym landing page.
 
 # Github Stats
 
