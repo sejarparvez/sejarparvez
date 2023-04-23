@@ -188,7 +188,7 @@ This is a landing page for a interior company. It has an amazing design. Some sm
 - EmailJs
 - react-smooth-scroll
 
-[Click here](https://sky-architech.netlify.app) to visit the gym landing page.
+[Click here](https://sky-architech.netlify.app) to visit the webpage.
 
 # Github Stats
 
