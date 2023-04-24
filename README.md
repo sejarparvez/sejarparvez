@@ -139,14 +139,14 @@ This is a landing page for a gym website. It has an amazing design. Some smooth 
 
 ### Technology used
 
-- React
+- React TypeScript
 - Tailwind CSS
 - Framer Motion
 - Swiper slider
 - EmailJs
 - react-smooth-scroll
 
-[Click here](https://sejarparvez.github.io/typescript-portfolio-project) to visit the gym landing page.
+[Click here](https://gymwebsitefitclub.netlify.app) to visit the gym landing page.
 
 </br>
 <img src='assets/line.gif' alt='line'>
