@@ -190,6 +190,24 @@ This is a landing page for a interior company. It has an amazing design. Some sm
 
 [Click here](https://sky-architech.netlify.app) to visit the webpage.
 
+</br>
+<img src='assets/line.gif' alt='line'>
+</br>
+## Manage
+
+<img src='assets/Manage.jpg'>
+
+### Specification
+
+This is a landing page a company. I got the design from youtube. But every line of code is written by me. It was like a practice project..
+
+### Technology Used
+
+- React TypeScript
+- Tailwind css
+
+[Click here](https://managetypescript.netlify.app) to visit the webpage.
+
 # Github Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sejarparvez&theme=highcontrast&border_radius=6&mode=weekly&ring=04DD05&stroke=14FF35&fire=FF2400&dates=18FF00&currStreakLabel=FFFFFF&border=FF0000&sideNums=1BFF00)](https://git.io/streak-stats)
