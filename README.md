@@ -129,7 +129,7 @@ This is another Portfolio website. I got the design from a youtube chanel. But e
 <img src='assets/line.gif' alt='line'>
 </br>
 
-## Landing Page for a gym.
+## Landing Page For FitClub.
 
 <img src='assets/gym.jpg' alt='gym'>
 
@@ -152,7 +152,7 @@ This is a landing page for a gym website. It has an amazing design. Some smooth 
 <img src='assets/line.gif' alt='line'>
 </br>
 
-## React TypeScript Landing Page
+## Landing Page For Puente.
 
 <img src ='assets/Landing.jpg' alt='Landing'>
 
@@ -166,6 +166,8 @@ I develope this landing page for a client. It is responsive for all screen size.
 - Tailwind CSS
 - EmailJs
 - react-hot toast
+
+[Click here](https://gymwebsitefitclub.netlify.app) to visit the gym landing page.
 
 </br>
 <img src='assets/line.gif' alt='line'>
