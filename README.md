@@ -167,7 +167,7 @@ I develope this landing page for a client. It is responsive for all screen size.
 - EmailJs
 - react-hot toast
 
-[Click here](https://gymwebsitefitclub.netlify.app) to visit the gym landing page.
+[Click here](https://puente-fiverr.netlify.app/) to visit the puente landing page.
 
 </br>
 <img src='assets/line.gif' alt='line'>
