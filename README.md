@@ -101,13 +101,13 @@ It has a working contact form. Its fully responsive. Has dark mood and light moo
 - Framer motion for animation
 - react-scroll for smooth scroll
 
-[Click here](https://sejarparvez.github.io/react_with_tailwind_03_portfolio) to visit the Portfolio Project With React
+[Click here](https://sejarparvez.cf) to visit the Portfolio Project With React
 
 </br>
 <img src='assets/line.gif' alt='line'>
 </br>
 
-## TypeScript Portfolio Website
+## Portfolio Website Of John Dorsey
 
 <img src="assets/Portfolio2.jpeg" alt="portfolio">
 
@@ -123,7 +123,7 @@ This is another Portfolio website. I got the design from a youtube chanel. But e
 - Swiper slider for creating beautiful slider.
 - react-scroll for smooth scroll.
 
-[Click here](https://sejarparvez.github.io/typescript-portfolio-project) to visit the Portfolio Project with react typescript.
+[Click here](https://john-dorsey.netlify.app) to visit the Portfolio Project with react typescript.
 
 </br>
 <img src='assets/line.gif' alt='line'>
