@@ -195,6 +195,7 @@ This is a landing page for a interior company. It has an amazing design. Some sm
 </br>
 <img src='assets/line.gif' alt='line'>
 </br>
+
 ## Manage
 
 <img src='assets/Manage.jpg'>
