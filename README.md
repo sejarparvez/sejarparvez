@@ -35,16 +35,6 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 
 ## A Full Stack Blog Website.
 
-<b>Normal version </b>
-
- <img src="assets/PrimeTech1.jpeg" alt="Blog">
- 
- </br>
- </br>
- </br>
-
-<b>Dark version </b>
-
  <img src="assets/PrimeTech2.jpeg" alt="Blog">
 
 ### Specifications
