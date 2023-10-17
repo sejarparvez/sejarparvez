@@ -155,50 +155,6 @@ This is a landing page for a gym website. It has an amazing design. Some smooth 
 <img src='assets/line.gif' alt='line'>
 </br>
 
-## Landing Page For Puente.
-
-<img src ='assets/Landing.jpg' alt='Landing'>
-
-### Specifications
-
-I develope this landing page for a client. It is responsive for all screen size. It also has a working subscribe form. It has a language switcher.
-
-### Technology used
-
-- React TypeScript
-- Tailwind CSS
-- EmailJs
-- react-hot toast
-
-[Click here](https://puente-fiverr.netlify.app/) to visit the puente landing page.
-
-</br>
-<img src='assets/line.gif' alt='line'>
-</br>
-
-## Landing Page For a Interior company.
-
-<img src='assets/sky.jpg' alt='sky'>
-
-### Specifications
-
-This is a landing page for a interior company. It has an amazing design. Some smooth eye catching animation. It also has a contract form, a price table and many more.
-
-### Technology used
-
-- React TypeScript
-- Tailwind CSS
-- Framer Motion
-- Swiper slider
-- EmailJs
-- react-smooth-scroll
-
-[Click here](https://sky-architech.netlify.app) to visit the webpage.
-
-</br>
-<img src='assets/line.gif' alt='line'>
-</br>
-
 ## Manage
 
 <img src='assets/Manage.jpg'>
