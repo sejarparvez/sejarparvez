@@ -85,31 +85,6 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 <img src='assets/line.gif' alt='line'>
 </br>
 
-## A Simple PortFolio Website.
-
- <img src="assets/Portfolio1.jpg" alt="portfolio">
-
-### Specifications
-
-This is a single page portfolio website for a Frontend developer.
-
-It has a working contact form. Its fully responsive. Has dark mood and light mood. Some amazing animation. Smooth scroll and many more.
-
-### Technology Used
-
-- This Webpage is created using React.
-- Tailwind CSS for styling.
-- EmailJs for contact form.
-- Swiper slider for creating beautiful slider.
-- Framer motion for animation
-- react-scroll for smooth scroll
-
-[Click here](https://sejarparvez.cf) to visit the Portfolio Project With React
-
-</br>
-<img src='assets/line.gif' alt='line'>
-</br>
-
 ## Portfolio Website Of John Dorsey
 
 <img src="assets/Portfolio2.jpeg" alt="portfolio">
