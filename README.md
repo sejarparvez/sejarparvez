@@ -52,9 +52,9 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 
 ### Technology used
 
-#### Frontend
 
 - NodeJs
+- NextJs
 - React
 - Tailwind
 - dotenv
@@ -63,21 +63,9 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 - react-router-dom
 - icon-scout
 - dayjs
-
-#### Backend
-
-- NodeJs
-- ExpressJs
 - Mongodb
-- Mongoose
 - bcryptjs
-- cookie-parser
-- cors
-- dotenv
 - firebase
-- firebase-admin
-- jsonwebtoken
-- multer
 
 [Click here](https://primetechblog.netlify.app) to visit the Blog Project.
 
