@@ -52,7 +52,6 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 
 ### Technology used
 
-
 - NodeJs
 - NextJs
 - React
@@ -68,28 +67,6 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 - firebase
 
 [Click here](https://primetechblog.netlify.app) to visit the Blog Project.
-
-</br>
-<img src='assets/line.gif' alt='line'>
-</br>
-
-## Portfolio Website Of John Dorsey
-
-<img src="assets/Portfolio2.jpeg" alt="portfolio">
-
-### Specifications
-
-This is another Portfolio website. I got the design from a youtube chanel. But every single line of code is written by me. Its completely responsive. Has a working contact form. Some animation. A beautiful hamburger menu for small screen.
-
-### Technology Used
-
-- This Portfolio website is created using React Typescript.
-- Tailwind CSS for styling.
-- EmailJs for contact form.
-- Swiper slider for creating beautiful slider.
-- react-scroll for smooth scroll.
-
-[Click here](https://john-dorsey.netlify.app) to visit the Portfolio Project with react typescript.
 
 </br>
 <img src='assets/line.gif' alt='line'>
