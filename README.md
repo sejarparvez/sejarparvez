@@ -112,6 +112,6 @@ This is a landing page a company. I got the design from youtube. But every line 
 
 # Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sejarparvez&theme=highcontrast&border_radius=6&mode=weekly&ring=04DD05&stroke=14FF35&fire=FF2400&dates=18FF00&currStreakLabel=FFFFFF&border=FF0000&sideNums=1BFF00)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sejarparvez&theme=highcontrast&border_radius=6&mode=weekly&ring=04DD05&stroke=14FF35&fire=FF2400&dates=18FF00&currStreakLabel=FFFFFF&border=FF0000&sideNums=1BFF00)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejarparvez&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejarparvez&layout=compact&theme=dark)
