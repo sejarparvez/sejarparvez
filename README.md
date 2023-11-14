@@ -10,7 +10,7 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sejarparvez) [![Dribbler Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sejarparvez) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejarparvez) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sejarparvez) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sejar_parvez) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sejarparvez) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1798220521) [![Mail Badge](https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sejarparvez@yahoo.com)
 
-# Things I code with
+# 💻 Things I code with
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -30,6 +30,10 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 </br>
 <img src='assets/line.gif' alt='line'>
 </br>
+
+## 🌐 Open Source Contributions:
+
+I actively contribute to open-source projects and believe in the power of collaboration to create meaningful and impactful solutions. Check out my contributions and feel free to connect!
 
 # My Recent Projects.
 
@@ -115,3 +119,5 @@ This is a landing page a company. I got the design from youtube. But every line 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sejarparvez&theme=highcontrast&border_radius=6&mode=weekly&ring=04DD05&stroke=14FF35&fire=FF2400&dates=18FF00&currStreakLabel=FFFFFF&border=FF0000&sideNums=1BFF00)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejarparvez&layout=compact&theme=dark)
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration opportunities. Happy coding! 🚀
