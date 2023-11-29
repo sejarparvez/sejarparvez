@@ -99,20 +99,6 @@ This is a landing page for a gym website. It has an amazing design. Some smooth 
 <img src='assets/line.gif' alt='line'>
 </br>
 
-## Manage
-
-<img src='assets/Manage.jpg'>
-
-### Specification
-
-This is a landing page a company. I got the design from youtube. But every line of code is written by me. It was like a practice project..
-
-### Technology Used
-
-- React TypeScript
-- Tailwind css
-
-[Click here](https://managetypescript.netlify.app) to visit the webpage.
 
 # Github Stats
 
