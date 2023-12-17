@@ -1,7 +1,5 @@
 <img src="assets/Banner.webp" width="100%" height="300vh"/>
 
-![Parvez](gitartwork.svg)
-
 # Hey! There <img src="assets/hello.gif" width="28px" alt="hi">
 
 ![](https://komarev.com/ghpvc/?username=sejarparvez&color=brightgreen)
@@ -100,7 +98,6 @@ This is a landing page for a gym website. It has an amazing design. Some smooth 
 </br>
 <img src='assets/line.gif' alt='line'>
 </br>
-
 
 # Github Stats
 
