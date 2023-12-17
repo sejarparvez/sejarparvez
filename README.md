@@ -1,5 +1,7 @@
 <img src="assets/Banner.webp" width="100%" height="300vh"/>
 
+![Parvez](gitartwork.svg)
+
 # Hey! There <img src="assets/hello.gif" width="28px" alt="hi">
 
 ![](https://komarev.com/ghpvc/?username=sejarparvez&color=brightgreen)
