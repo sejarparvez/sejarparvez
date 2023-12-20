@@ -76,25 +76,6 @@ I actively contribute to open-source projects and believe in the power of collab
 <img src='assets/line.gif' alt='line'>
 </br>
 
-## Landing Page For FitClub.
-
-<img src='assets/gym.jpg' alt='gym'>
-
-### Specifications
-
-This is a landing page for a gym website. It has an amazing design. Some smooth eye catching animation. It also has a contract form, a price table and many more.
-
-### Technology used
-
-- React TypeScript
-- Tailwind CSS
-- Framer Motion
-- Swiper slider
-- EmailJs
-- react-smooth-scroll
-
-[Click here](https://gymwebsitefitclub.netlify.app) to visit the gym landing page.
-
 </br>
 <img src='assets/line.gif' alt='line'>
 </br>
