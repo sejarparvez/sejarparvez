@@ -35,50 +35,6 @@ I'm <b>SEJAR PARVEZ </b> A Full Stack <b> JavaScript </b> Developer, With High L
 
 I actively contribute to open-source projects and believe in the power of collaboration to create meaningful and impactful solutions. Check out my contributions and feel free to connect!
 
-# My Recent Projects.
-
-## A Full Stack Blog Website.
-
- <img src="assets/PrimeTech2.jpeg" alt="Blog">
-
-### Specifications
-
-- Registration and login functionality.
-- Multi author website.
-- Admin can control user activity from dashboard.
-- Rich text editor for creating new post.
-- Edit and Delete post
-- Amazing user profile.
-- User can edit there own profile, Add bio, profile picture, social links and much more.
-- Comment section
-- Has Dark Mode
-- Responsive in all screen size
-
-### Technology used
-
-- NodeJs
-- NextJs
-- React
-- Tailwind
-- dotenv
-- react-quill
-- react-hot-toast
-- react-router-dom
-- icon-scout
-- dayjs
-- Mongodb
-- bcryptjs
-- firebase
-
-[Click here](https://primetechblog.netlify.app) to visit the Blog Project.
-
-</br>
-<img src='assets/line.gif' alt='line'>
-</br>
-
-</br>
-<img src='assets/line.gif' alt='line'>
-</br>
 
 # Github Stats
 
